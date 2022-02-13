@@ -1,0 +1,18 @@
+{
+  "id": "archer",
+  "spells": {
+    "test_spell": {
+      "x": 1,
+      "y": 1}
+    },
+  "synergies": {},
+  "lvl_reqs": [
+    1,
+    5,
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}
