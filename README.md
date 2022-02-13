@@ -1,0 +1,2 @@
+# soulres
+ CTE Resolution Datapack

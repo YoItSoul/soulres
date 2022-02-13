@@ -1,0 +1,18 @@
+{
+  "id": "soul",
+  "spells": {
+    "undying_will": {
+      "x": 3,
+      "y": 2}
+    },
+  "synergies": {},
+  "lvl_reqs": [
+    1,
+    5,
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}
