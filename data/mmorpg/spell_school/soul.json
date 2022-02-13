@@ -1,9 +1,9 @@
 {
   "id": "soul",
   "spells": {
-    "undying_will": {
-      "x": 3,
-      "y": 2}
+    "test_spell": {
+      "x": 1,
+      "y": 1}
     },
   "synergies": {},
   "lvl_reqs": [
